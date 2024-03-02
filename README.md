@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/mfts/papermark/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mfts/papermark" />
-</a>
+<img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Desktop%20-%204.png?raw=true" alt="capa">
