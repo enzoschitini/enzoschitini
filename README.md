@@ -29,5 +29,10 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 
 
-# My repositorys 👋
-Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
+<p align="center">
+  Enzo Schitini
+</p>
+
+<p align="center">
+  Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
+</p>
