@@ -15,28 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Installation
-
-First, clone this repository:
-
-<!-- start:code block -->
-# Clone this repository
-git clone https://github.com/mfts/papermark.git
-cd papermark
-
-# Install dependencies
-npm install
-
-# Copy the example .env file
-cp .env.example .env
-
-# Initialize the database
-npx prisma generate
-npx prisma db push
-
-# Run the app
-npm run dev
-
-# Open http://localhost:3000 in your browser
-open http://localhost:3000
-<!-- end:code block -->
+<div align="center">
+  <a href="https://github.com/mfts/papermark/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mfts/papermark"></a>
+  <a href="https://twitter.com/mfts0"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mfts0"></a>
+  <a href="https://github.com/mfts/papermark/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-AGPLv3-purple"></a>
+</div>
