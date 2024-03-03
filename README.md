@@ -26,19 +26,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ---
 
 
-<div style="display: flex;">
-  <div style="margin-right: 20px;">
-    <img src="link-immagine.jpg" alt="Immagine di un edificio e una fontana a Roma">
-    <h2>Descrizione</h2>
-    <p>La città di Roma è un museo a cielo aperto i cittadini possono godersi delle opere che ci sono solo a Roma</p>
-  </div>
-  
-  <div>
-    <img src="link-immagine.jpg" alt="Immagine di un edificio e una fontana a Roma">
-    <h2>Descrizione</h2>
-    <p>La città di Roma è un museo a cielo aperto i cittadini possono godersi delle opere che ci sono solo a Roma</p>
-  </div>
-</div>
+
 
 
 
