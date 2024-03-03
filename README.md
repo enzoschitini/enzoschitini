@@ -24,9 +24,8 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 
 ---
-<p align="left">
-  <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/about%20me.png?raw=true" alt="capa" style="width: 200px;>
-</p>
+
+<img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/about%20me.png?raw=true" alt="capa" style="width: 200px;>
 
 
 <p align="center">
