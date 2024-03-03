@@ -27,13 +27,13 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/about%20me.png?raw=true" alt="capa" width="250">
 
 <p align="center">
+  <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Github2.png?raw=true" alt="capa" width="400">
+</p>
+
+<p align="center">
   Enzo Schitini
 </p>
 
 <p align="center">
   Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
-</p>
-
-<p align="center">
-  <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Github2.png?raw=true" alt="capa" width="400">
 </p>
