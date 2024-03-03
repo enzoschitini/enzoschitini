@@ -25,7 +25,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 ---
 
-<img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/about%20me.png?raw=true" alt="capa" style="width: 200px;>
+<img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/about%20me.png?raw=true" alt="capa" width="500">
 
 
 <p align="center">
