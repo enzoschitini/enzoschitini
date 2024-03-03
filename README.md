@@ -27,11 +27,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 `+ 18 Projetos ` 
 
 ---
-
-<div width="250">
-  Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
-</div>
-
+#
 <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/about%20me.png?raw=true" alt="capa" width="250">
 
 <p align="center">
