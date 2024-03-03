@@ -29,6 +29,17 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 <p align="center">
   <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Github2.png?raw=true" alt="capa" width="400">
 </p>
+Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights. Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória
+
+<p align="center">
+  <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/My%20skills.png?raw=true" alt="capa" width="400">
+</p>
+Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights. Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória
+
+<p align="center">
+  <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Projects.png?raw=true" alt="capa" width="400">
+</p>
+Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights. Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória
 
 <p align="center">
   Enzo Schitini
