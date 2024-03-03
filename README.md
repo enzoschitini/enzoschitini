@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
 
 <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Copertina-Profilo.png?raw=true" alt="capa">
+
 ---
 
 # **Bem-Vindo(a)!** • Veja o que eu fiz de melhor com cientista de dados
@@ -25,9 +26,9 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 ---
 
+<img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/Github2.png?raw=true" alt="capa">
 
 <img src="https://github.com/enzoschitini/repository-data-science-library/blob/main/image/about%20me.png?raw=true" alt="capa" width="250">
-
 
 <p align="center">
   Enzo Schitini
