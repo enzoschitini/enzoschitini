@@ -28,7 +28,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 ---
 
-<div style="max-width: 400px;">
+<div width="250">
   Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
 </div>
 
