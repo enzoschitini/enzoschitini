@@ -8,7 +8,6 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ## **Olá! • Veja o que eu fiz de melhor com dados**
 #### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
 
-### **Minha relação com os dados:**
 A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E foi por essa vontade de fazer descobertas que me tornei Data Scientist, para resolver problemas reais e fazer as tais descobertas.
 ### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
 
@@ -21,10 +20,15 @@ Criei o Scituffy para facilitar o dia a dia de profissionais de dados, oferecend
 Em meus projetos, busco sempre combinar as três áreas em que atuo (Data Science, Bubble e UX & UI) para criar soluções completas e inovadoras:
 
 • Storytelling com dados, utilizando UX e UI para comunicar insights de forma clara e envolvente 
+
 • Desenvolvimento de aplicações data-driven que agregam valor estratégico aos negócios 
+
 • Criação de sites, aplicativos e plataformas web que oferecem experiências intuitivas e eficazes 
+
 • Modelos de Machine Learning (classificação, regressão, clusterização) para previsões e segmentações avançadas 
+
 • Extração de insights valiosos e realização de análises profundas (descritivas, diagnósticas, preditivas e prescritivas) 
+
 • Plataformas de gerenciamento de dados otimizadas para a tomada de decisões 
 
 Desde os 12 anos, quando comecei a estudar robótica, venho cultivando minha paixão pelo desenvolvimento de software. Acredito no aprendizado prático e sei que, com dedicação, comprometimento e paciência, é possível alcançar grandes resultados.
