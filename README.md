@@ -12,6 +12,25 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E foi por essa vontade de fazer descobertas que me tornei Data Scientist, para resolver problemas reais e fazer as tais descobertas.
 ### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
 
+Especialista no desenvolvimento de aplicações web e mobile utilizando a plataforma Bubble.io e ferramentas de UX & UI design, como o Figma, para garantir uma melhor experiência aos usuários. Com mais de 3 anos de experiência no mercado, tenho atuado em diversos projetos em setores variados, incluindo o Suportify, no qual estou atualmente envolvido. O Suportify é uma plataforma baseada em LangChain, desenvolvida no Bubble, que permite a criação de agentes de IA personalizados para atender às necessidades específicas dos usuários. Essa solução se destaca como uma inovação para aqueles que desejam explorar o potencial de negócios no universo da inteligência artificial.
+
+Sou profissional na área de Ciência de Dados e Análise de Dados, formado pela EBAC, com competências em estatística, modelos de machine learning, Python, SQL, construção de dashboards com Streamlit, GitHub, Excel, entre outros.
+
+Criei o Scituffy para facilitar o dia a dia de profissionais de dados, oferecendo soluções inovadoras que ajudam a automatizar processos recorrentes, como a criação de códigos e análises eficientes para gerar insights e conteúdos didáticos. O objetivo é garantir que você nunca precise começar um projeto do zero, permitindo que o Scituffy auxilie em tarefas como desenvolvimento de códigos e elaboração de análises, considerando diversos fatores.
+
+Em meus projetos, busco sempre combinar as três áreas em que atuo (Data Science, Bubble e UX & UI) para criar soluções completas e inovadoras:
+
+• Storytelling com dados, utilizando UX e UI para comunicar insights de forma clara e envolvente 
+• Desenvolvimento de aplicações data-driven que agregam valor estratégico aos negócios 
+• Criação de sites, aplicativos e plataformas web que oferecem experiências intuitivas e eficazes 
+• Modelos de Machine Learning (classificação, regressão, clusterização) para previsões e segmentações avançadas 
+• Extração de insights valiosos e realização de análises profundas (descritivas, diagnósticas, preditivas e prescritivas) 
+• Plataformas de gerenciamento de dados otimizadas para a tomada de decisões 
+
+Desde os 12 anos, quando comecei a estudar robótica, venho cultivando minha paixão pelo desenvolvimento de software. Acredito no aprendizado prático e sei que, com dedicação, comprometimento e paciência, é possível alcançar grandes resultados.
+
+Hoje, continuo motivado a desafiar minha criatividade e a buscar novas formas de inovar e impactar positivamente o mundo ao meu redor. 🔥
+
 ## 📁 Projetos criados:
 
 Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter `os melhores Insights`. Dividi os projetos com os temas que `abrangem as fases que qualquer projeto deve ter` `+ a minha trajetória`
