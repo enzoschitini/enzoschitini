@@ -1,15 +1,6 @@
 # Hi there 👋
 
-Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os bons Insights e que agregam valor estratégico. 
-
-Os projetos estão divididos em grupos que tratam de análises:
-- **Descritivas:** Para identificar fenomenos
-- **Diagnósticas:** Descobrir as causas dos fenomenos
-- **Preditivas:** Reconhecer padrões nos dados para fazer previsões de possiveis senarios e segmantações com clareza
-- **Prescritivas:** Medidas que podem ser adotadas com base nos Insights
-- Além da minha trajetória (alguns dos meus primeiros projetos)
-
-para obter os bons Insights e que agregam valor estratégico. Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória (alguns dos meus primeiros projetos)
+Aqui você verá todos os meus projetos de Data Science divididos em grupos com temas que abrangem as fases que qualquer projeto de dados deve ter, como: análise descritivas, diagnósticas, preditivas e prescritivas + a minha trajetória (alguns dos meus primeiros projetos). Habilidades necessárias para obter os bons Insights e que agregam valor estratégico. 
 
 <img src="https://raw.githubusercontent.com/enzoschitini/enzoschitini/refs/heads/main/img/IMG.png" alt="capa">
 
