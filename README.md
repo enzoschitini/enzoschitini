@@ -5,7 +5,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 <img src="https://raw.githubusercontent.com/enzoschitini/enzoschitini/refs/heads/main/img/IMG.png" alt="capa">
 
 ## **Olá! • Veja o que eu fiz de melhor com dados**
-#### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist • Expert Bubble.io • UX & UI @ Scituffy creator
+### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
 
 A ciência sempre me fascinou pelo fato de podermos descobrir coisas novas. E foi por essa vontade de fazer descobertas que me tornei Data Scientist, para resolver problemas reais e fazer as tais descobertas.
 ### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
@@ -81,5 +81,5 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 </p>
 
 <p align="center">
-  Data Scientist • Expert Bubble.io • UX & UI @ Nugus creator
+  Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
 </p>
