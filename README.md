@@ -50,12 +50,12 @@ Os projetos estão organizados em grupos que exploram diferentes tipos de análi
 
 Além disso, incluo projetos que refletem minha trajetória, incluindo alguns dos meus primeiros trabalhos na área.
 
-> ### Dados do SINASC de Rondônia em 2019 - Análise avançada 👑
+> ### Dados do Sistema de Informação sobre Nascidos Vivos (SINASC) de Rondônia em 2019
 > Pesquisa sobre os dados do SINASC no estado de Rondônia (BR) no ano de 2019. O meu objetivo é realizar uma análise aprofundada do tema, encontrar padrões nos dados e conectar à realidade. Definitivamente um dos projetos em que mais me esforcei para obter bons resultados, espero que você, assim como eu, ache interessante.
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc)
 ##
 
-> ### E-Commerce Customer Data For Behavior Analysis - Análise avançada
+> ### E-Commerce Customer Data For Behavior Analysis
 > Fiz uma análise das vendas de um E-Commerce para entender melhor como são seus clientes. O conjunto de dados contém informações sobre 100.000 pedidos de 2016 a 2018 feitos em vários mercados no Brasil. Seus recursos permitem visualizar um pedido em múltiplas dimensões: desde status do pedido, preço, desempenho de pagamento e transporte, localização do cliente, atributos do produto e, finalmente, avaliações escritas pelos clientes.
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/E-commerce%20Customer%20Data%20For%20Behavior%20Analysis)
 ##
