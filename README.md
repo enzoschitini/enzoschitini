@@ -7,7 +7,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 ## **Olá! • Veja o que eu fiz de melhor com dados**
 ### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
 
-> "Sempre fui fascinado pela ciência e pela possibilidade de fazer descobertas. Essa curiosidade me levou a me tornar Data Scientist, com o propósito de resolver problemas reais e explorar o desconhecido."
+> ### "Sempre fui fascinado pela ciência e pela possibilidade de fazer descobertas. Essa curiosidade me levou a me tornar Data Scientist, com o propósito de resolver problemas reais e explorar o desconhecido."
 
 ### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
 
