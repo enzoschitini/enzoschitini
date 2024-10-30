@@ -1,6 +1,15 @@
 # Hi there 👋
 
-Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
+Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os bons Insights e que agregam valor estratégico. 
+
+Os projetos estão divididos em grupos que tratam de análises:
+- **Descritivas**
+- **Diagnósticas**
+- **Preditivas**
+- **Prescritivas**
+- Além da minha trajetória (alguns dos meus primeiros projetos)
+
+para obter os bons Insights e que agregam valor estratégico. Dividi os projetos com os temas que abrangem as fases que qualquer projeto deve ter + a minha trajetória (alguns dos meus primeiros projetos)
 
 <img src="https://raw.githubusercontent.com/enzoschitini/enzoschitini/refs/heads/main/img/IMG.png" alt="capa">
 
