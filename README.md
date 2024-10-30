@@ -6,7 +6,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 ## [📌 Link Portfólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
 
-#### Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
+### Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
 
 > ### "Sempre fui fascinado pela ciência e pela possibilidade de fazer descobertas. Essa curiosidade me levou a me tornar Data Scientist, com o propósito de resolver problemas reais e explorar o desconhecido."
 
