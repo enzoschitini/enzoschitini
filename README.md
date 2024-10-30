@@ -11,6 +11,8 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 ### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
 
+## 👨‍💻 Sobre:
+
 Especialista no desenvolvimento de aplicações web e mobile utilizando a plataforma Bubble.io e ferramentas de UX & UI design, como o Figma, para garantir uma melhor experiência aos usuários. Com mais de 3 anos de experiência no mercado, tenho atuado em diversos projetos em setores variados, incluindo o Suportify, no qual estou atualmente envolvido. O Suportify é uma plataforma baseada em LangChain, desenvolvida no Bubble, que permite a criação de agentes de IA personalizados para atender às necessidades específicas dos usuários. Essa solução se destaca como uma inovação para aqueles que desejam explorar o potencial de negócios no universo da inteligência artificial.
 
 Sou profissional na área de Ciência de Dados e Análise de Dados, formado pela EBAC, com competências em estatística, modelos de machine learning, Python, SQL, construção de dashboards com Streamlit, GitHub, Excel, entre outros.
