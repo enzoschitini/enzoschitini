@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Aqui você verá todos os meus projetos de Data Science divididos em grupos com temas que abrangem as fases que qualquer projeto de dados deve ter, como: análise descritivas, diagnósticas, preditivas e prescritivas + a minha trajetória (alguns dos meus primeiros projetos). Habilidades necessárias para obter os bons Insights e que agregam valor estratégico. 
+Aqui estão todos os meus projetos de Data Science, organizados em grupos que abrangem as principais etapas de um projeto de dados: análises descritivas, diagnósticas, preditivas e prescritivas. Cada fase é essencial para obter insights profundos e agregar valor estratégico. Também incluí alguns dos meus primeiros projetos, que refletem a minha trajetória e desenvolvimento na área.
 
 <img src="https://raw.githubusercontent.com/enzoschitini/enzoschitini/refs/heads/main/img/IMG.png" alt="capa">
 
@@ -41,14 +41,14 @@ Desde os 12 anos, quando comecei a estudar robótica, venho cultivando minha pai
 Hoje, continuo motivado a desafiar minha criatividade e a buscar novas formas de inovar e impactar positivamente o mundo ao meu redor. 🔥
 
 ## 📁 Projetos criados:
+Os projetos estão organizados em grupos que exploram diferentes tipos de análises, cada uma essencial para obter insights valiosos que agregam valor estratégico:
 
-Os projetos estão divididos em grupos que tratam de análises: (Habilidades necessárias para obter os bons Insights e que agregam valor estratégico)
-- **Descritivas:** Para identificar fenomenos
-- **Diagnósticas:** Descobrir as causas dos fenomenos
-- **Preditivas:** Reconhecer padrões nos dados para fazer previsões de possiveis senarios e segmantações com clareza
-- **Prescritivas:** Medidas que podem ser adotadas com base nos Insights
-- Além da minha trajetória (alguns dos meus primeiros projetos)
+- **Análises Descritivas:** Para identificar fenômenos e padrões iniciais nos dados.
+- **Análises Diagnósticas:** Para investigar as causas subjacentes dos fenômenos identificados.
+- **Análises Preditivas:** Para reconhecer padrões nos dados e fazer previsões de possíveis cenários futuros e segmentações com clareza.
+- **Análises Prescritivas:** Para sugerir ações e decisões estratégicas baseadas nos insights obtidos.
 
+Além disso, incluo projetos que refletem minha trajetória, incluindo alguns dos meus primeiros trabalhos na área.
 
 > ### Dados do SINASC de Rondônia em 2019 - Análise avançada 👑
 > Pesquisa sobre os dados do SINASC no estado de Rondônia (BR) no ano de 2019. O meu objetivo é realizar uma análise aprofundada do tema, encontrar padrões nos dados e conectar à realidade. Definitivamente um dos projetos em que mais me esforcei para obter bons resultados, espero que você, assim como eu, ache interessante.
@@ -69,6 +69,8 @@ Os projetos estão divididos em grupos que tratam de análises: (Habilidades nec
 > Este projeto envolve o desenvolvimento de uma aplicação interativa usando Streamlit, que permite aos usuários visualizar dados financeiros coletados do Yahoo Finance. A aplicação oferece uma interface amigável para consultar, analisar e visualizar informações sobre diferentes ativos financeiros, tais como ações, índices e moedas. Com funcionalidades como seleção de período, tipos de gráficos e indicadores financeiros, a aplicação visa facilitar a compreensão das tendências de mercado e a tomada de decisões informadas. Dados de empresas como Petrobras, Coca-Cola, Amazon, Tesla, Itaú e Emirates.
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/blob/main/03%20Visualiza%C3%A7%C3%A3o%20de%20dados%20(Gr%C3%A1ficos%20e%20Mapas%20+%20Streamlit)/Financial%20shares%20of%20large%20companies/README.md)
 ##
+
+---
 
 ### Minha trajetória: Meus primeiros projetos
 **ATENÇÃO:** *Estes são alguns dos meus primeiros projetos. Portanto, tantas coisas se eu tivesse que fazê hoje, faria de forma diferente*
