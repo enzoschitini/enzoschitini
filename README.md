@@ -2,11 +2,11 @@
 
 Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
 
+### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
+
 <img src="https://raw.githubusercontent.com/enzoschitini/enzoschitini/refs/heads/main/img/IMG.png" alt="capa">
 
-## [📌 Portfólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
-
-### [Enzo Schitini](https://www.linkedin.com/in/enzoschitini/) - Data Scientist & Data Analyst • SQL • Expert Bubble.io • UX & UI @ Scituffy creator
+## [📌 Link Portfólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
 
 > ### "Sempre fui fascinado pela ciência e pela possibilidade de fazer descobertas. Essa curiosidade me levou a me tornar Data Scientist, com o propósito de resolver problemas reais e explorar o desconhecido."
 
