@@ -11,7 +11,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 ### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
 
-### • [☕ Portifólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
+### ☕ Portifólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
 
 ## 👨‍💻 Sobre:
 
