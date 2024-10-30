@@ -11,9 +11,7 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 ### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
 
-### ☕ Portfólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
-
-### • [Kaggle - 🤰 Sinasc • Estado de Rondônia em 2019](https://www.kaggle.com/code/enzoschitini/sinasc-estado-de-rond-nia-em-2019#Projeto-de-An%C3%A1lise-e-Ci%C3%AAncia-de-Dados-com-Machine-Learning)
+### [☕ Portfólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
 
 ## 👨‍💻 Sobre:
 
