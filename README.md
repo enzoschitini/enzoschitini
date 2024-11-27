@@ -67,7 +67,7 @@ Além disso, incluo projetos que refletem minha trajetória, incluindo alguns do
 > [ACESSE O PROJETO](https://www.kaggle.com/code/enzoschitini/credit-card-approval-prediction)
 ##
 
-> ### Ensemble Techniques • Credit Card Approval Prediction
+> ### Ensemble Techniques • Repository
 > Este repositório explora técnicas de ensemble em Machine Learning, como Bagging, Boosting, Adaboost, Gradient Boosting Machine - GBM, Random Forest e XGBoost com explicações teóricas e exemplos práticos. Ideal para quem deseja aprofundar seus conhecimentos e melhorar o desempenho de modelos preditivos.
 > [ACESSE O PROJETO](https://github.com/enzoschitini/machine-learning/tree/Ensemble-Techniques)
 ##
