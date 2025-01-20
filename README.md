@@ -1,8 +1,6 @@
-# Hi there 👋
+# Olá 👋
 
-Aqui estão todos os meus projetos de Data Science, organizados em grupos que abrangem as principais etapas de um projeto de dados: análises descritivas, diagnósticas, preditivas e prescritivas. Cada fase é essencial para obter insights profundos e agregar valor estratégico. Também incluí alguns dos meus primeiros projetos, que refletem a minha trajetória e desenvolvimento na área.
-
-<img src="https://raw.githubusercontent.com/enzoschitini/enzoschitini/refs/heads/main/img/IMG.png" alt="capa">
+Aqui estão todos os meus projetos e artigos de Data Science, organizados em grupos que abrangem as principais etapas de um projeto de dados: análises descritivas, diagnósticas, preditivas e prescritivas. Cada fase é essencial para obter insights profundos e agregar valor estratégico. Também incluí alguns dos meus primeiros projetos, que refletem a minha trajetória e desenvolvimento na área.
 
 ## [📌 Link Portfólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
 
@@ -13,6 +11,29 @@ Aqui estão todos os meus projetos de Data Science, organizados em grupos que ab
 ### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
 
 ---
+
+## 📝 Artigos:
+
+
+### 1. [Ensemble Techniques](https://github.com/enzoschitini/machine-learning/tree/Ensemble-Techniques)
+Um artigo que explora técnicas de ensemble em Machine Learning, como Bagging, Boosting, Adaboost, Gradient Boosting Machine - GBM, Random Forest e XGBoost com explicações teóricas e exemplos práticos. 
+
+### 2. [SQL para Análise de Dados](https://www.kaggle.com/code/enzoschitini/sql-para-an-lise-de-dados)
+Este repositório explora técnicas fundamentais de SQL aplicadas à análise de dados, incluindo operações de filtragem, agregação, join, subconsultas e Common Table Expressions (CTEs). Com explicações teóricas e exemplos práticos.
+
+### 3. [K-Means Clustering Algorithm](https://www.kaggle.com/code/enzoschitini/k-means-clustering-algorithm)
+
+### 4. [🐼 Guia para usar métodos e funções do Pandas](https://www.kaggle.com/code/enzoschitini/guide-to-using-pandas-methods-and-functions)
+
+### 5. [PCA - Principal Component Analysis](https://www.kaggle.com/code/enzoschitini/pca-principal-component-analysis)
+
+### 6. [PyCaret - Guide](https://www.kaggle.com/code/enzoschitini/pycaret-guide)
+
+
+
+
+
+
 
 ## 👨‍💻 Sobre:
 
