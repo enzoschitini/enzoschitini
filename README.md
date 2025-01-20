@@ -20,7 +20,7 @@ Aqui estão todos os meus projetos e artigos de Data Science, organizados em gru
 ## 📁 Projetos criados:
 
 ### Dados do Sistema de Informação sobre Nascidos Vivos (SINASC) de Rondônia em 2019
-> Pesquisa sobre os dados do SINASC no estado de Rondônia (BR) no ano de 2019. O meu objetivo é realizar uma análise aprofundada do tema, encontrar padrões nos dados e conectar à realidade. Definitivamente um dos projetos em que mais me esforcei para obter bons resultados, espero que você, assim como eu, ache interessante.
+> A análise dos dados do SINASC em Rondônia em 2019 revela um retrato fascinante e por vezes preocupante da realidade local. Destaca-se que 12% dos partos foram de adolescentes grávidas casadas com homens mais velhos, acendendo alertas sobre desigualdades de poder e vulnerabilidades sociais. Além disso, os dados evidenciam que mães negras possuem uma média mais alta de filhos mortos, enquanto mães indígenas têm, em média, mais filhos vivos. Outro ponto intrigante é a predominância de partos cesáreos na maioria dos grupos, com exceção das mães indígenas, que optam mais pelo parto vaginal. A pesquisa também explorou como escolaridade, idade e raça influenciam fatores como saúde materno-infantil e escolha do tipo de parto. Esses insights revelam a urgência de políticas públicas direcionadas para combater desigualdades e promover a saúde na região.
 > [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/01%20An%C3%A1lise%20explorat%C3%B3ria%20e%20limpeza%20de%20dados/Sinasc)
 ##
 
