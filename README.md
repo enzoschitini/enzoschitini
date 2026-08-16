@@ -29,7 +29,7 @@ Sou cientista de dados e engenheiro de IA, com 4 anos de experiência construind
 
 - 🤖 **IA Generativa & Agentes** — projeto arquiteturas RAG e integro LangChain, LlamaIndex, CrewAI e Dify para criar agentes que raciocinam, planejam e agem de forma autônoma.
 - 📊 **Data Science** — estatística, modelos de Machine Learning, Python, SQL e dashboards (Streamlit, Excel) para transformar dados em decisões de negócio.
-- 🧩 **No-code** — como Bubble Developer, já construí plataformas SaaS, marketplaces, sistemas de gestão e apps educacionais, integrando APIs e automações.
+- 🧩 **Low-code** — como Bubble Developer, já construí plataformas SaaS, marketplaces, sistemas de gestão e apps educacionais, integrando APIs e automações.
 - 🔧 Estudo robótica e desenvolvimento de software desde os 12 anos — aprendizado prático é a base de tudo que faço.
 
 ---
@@ -46,7 +46,7 @@ Aplicação Streamlit com arquitetura RAG conectada ao Pinecone, alimentada com 
 
 ## 📊 Projetos de Dados
 
-Análises e modelos que já apliquei em problemas reais de negócio, saúde pública e mercado financeiro. [Veja o portfólio completo →](https://github.com/enzoschitini/Data-Science-Portfolio)
+Análises e modelos que já apliquei em problemas reais de negócio, saúde pública e mercado financeiro.
 
 **[Marketing Campaign Optimization (K-Means)](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Marketing-Campaign-Optimization)**
 Segmentação de clientes de um e-commerce em 4 clusters via K-Means, revelando oportunidades que poderiam elevar o faturamento em quase 12% (mais de $150 mil).
