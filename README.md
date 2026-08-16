@@ -35,7 +35,7 @@
 
 ## Sobre mim
 
-Sou cientista de dados e engenheiro de IA, com 4 anos de experiência construindo soluções que unem desempenho, escalabilidade e boas práticas. Desde abril de 2025 atuo na EcGlobal (Grupo Stefanini), desenvolvendo soluções de IA Generativa e Ciência de Dados para otimizar processos de negócio.
+Transformo dados e modelos de linguagem em produtos que geram impacto real de negócio. Nos últimos 4 anos, uni Data Science e Engenharia de IA para construir soluções com desempenho, escalabilidade e boas práticas de verdade — hoje faço isso na Stefanini (EcGlobal), levando iniciativas de IA Generativa do protótipo à produção.
 
 - 🤖 **IA Generativa & Agentes** — projeto arquiteturas RAG e integro LangChain, LlamaIndex, CrewAI e Dify para criar agentes que raciocinam, planejam e agem de forma autônoma.
 - 📊 **Data Science** — estatística, modelos de Machine Learning, Python, SQL e dashboards (Streamlit, Excel) para transformar dados em decisões de negócio.
