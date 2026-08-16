@@ -1,6 +1,6 @@
-# Enzo Schitini 👋
+# Always Ready to Deploy 🚀
 
-### Data Scientist & AI Engineer @ Stefanini (EcGlobal)
+### Data Scientist & AI Engineer @ Stefanini (EcGlobal) | Focado em Dados, IA Generativa & Automações
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoschitini/)
 
