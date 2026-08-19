@@ -46,10 +46,10 @@ Transformo dados e modelos de linguagem em produtos que geram impacto real de ne
 
 ## 🤖 IA Generativa & Agentes
 
-**[Acquarello](https://github.com/enzoschitini/better-ai/blob/master/7.%20Streamlit%20Applications/Acquarello.ipynb)**
+**[Acquarello](https://github.com/enzoschitini/better-ai/blob/master/Streamlit%20Applications/Acquarello.ipynb)**
 Estúdio de geração de imagens com IA em Streamlit, com dois modos — texto-para-imagem e imagem-para-imagem. O estilo visual é controlado pelo usuário direto na barra lateral, sem exigir nenhuma configuração técnica.
 
-**[Gerador de Conteúdos](https://github.com/enzoschitini/better-ai/blob/master/7.%20Streamlit%20Applications/Content%20Generator.ipynb)**
+**[Gerador de Conteúdos](https://github.com/enzoschitini/better-ai/blob/master/Streamlit%20Applications/Content%20Generator.ipynb)**
 Aplicação Streamlit com arquitetura RAG conectada ao Pinecone, alimentada com catálogos e documentos do Grupo O Boticário. Gera textos no tom real da marca, com controle total sobre objetivo, restrições, modelo de linguagem, idioma e profundidade de busca.
 
 ---
