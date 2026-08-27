@@ -1,19 +1,30 @@
-# Olá 👋
+# Always Ready to Deploy 🚀
 
-Aqui estão todos os meus projetos e artigos de Data Science, organizados em grupos que abrangem as principais etapas de um projeto de dados: análises descritivas, diagnósticas, preditivas e prescritivas. Cada fase é essencial para obter insights profundos e agregar valor estratégico. Também incluí alguns dos meus primeiros projetos, que refletem a minha trajetória e desenvolvimento na área.
+### Data Scientist & AI Engineer @ Stefanini (EcGlobal) | Focado em Dados, IA Generativa & Automações
 
-- **Análises Descritivas:** Para identificar fenômenos e padrões iniciais nos dados.
-- **Análises Diagnósticas:** Para investigar as causas subjacentes dos fenômenos identificados.
-- **Análises Preditivas:** Para reconhecer padrões nos dados e fazer previsões de possíveis cenários futuros e segmentações com clareza.
-- **Análises Prescritivas:** Para sugerir ações e decisões estratégicas baseadas nos insights obtidos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoschitini/)
 
-## [📌 Link Portfólio • Todos meus projetos em dados](https://github.com/enzoschitini/Data-Science-Portfolio)
+> Utilizo a tecnologia para criar soluções que geram valor real para pessoas e empresas.
 
-### Data Scientist & Data Analyst • Senior Bubble Developer • SQL • Ux/Ui Design @ Scituffy Founder
-
-> ### "Sempre fui fascinado pela ciência e pela possibilidade de fazer descobertas. Essa curiosidade me levou a me tornar Data Scientist, com o propósito de resolver problemas reais e explorar o desconhecido."
-
-### `Para mim, todo Dataset esconde uma história e só temos que encontrá-la e saber contá-la`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E2E2E?style=flat-square&logo=langgraph&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logo=crewai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-0B3D2E?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Agno](https://img.shields.io/badge/Agno-1B1B1B?style=flat-square)
+![Multi Agents](https://img.shields.io/badge/Multi%20Agents-6E56CF?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 <!-- GIF -->
 <p align="left">
@@ -22,88 +33,63 @@ Aqui estão todos os meus projetos e artigos de Data Science, organizados em gru
 
 ---
 
-## 📁 Projetos criados:
+## Sobre mim
 
-## Marketing Campaign Optimization (K-Means)
-> Este projeto utiliza o algoritmo de clusterização K-Means para segmentar clientes de um e-commerce com base em dados demográficos, comportamentais e de consumo, gerando insights acionáveis para campanhas de marketing personalizadas. A análise revelou quatro grupos distintos de clientes, permitindo identificar os mais lucrativos e estratégias para redirecionar recursos, aumentando potencialmente o faturamento em quase 12% (mais de $150 mil). 
-> Com uma abordagem data-driven, o projeto destacou a importância da personalização para otimizar o ROI, melhorar a experiência do cliente e identificar novas oportunidades de crescimento.
+Transformo dados e modelos de linguagem em produtos que geram impacto real de negócio. Nos últimos 4 anos, uni Data Science e Engenharia de IA para construir soluções com desempenho, escalabilidade e boas práticas de verdade — hoje faço isso na Stefanini (EcGlobal), levando iniciativas de IA Generativa do protótipo à produção.
 
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Marketing-Campaign-Optimization)
-
-## Dados do Sistema de Informação sobre Nascidos Vivos (SINASC) de Rondônia em 2019
-> A análise dos dados do SINASC em Rondônia em 2019 revela um retrato fascinante e por vezes preocupante da realidade local. Destaca-se que 12% dos partos foram de adolescentes grávidas casadas com homens mais velhos, acendendo alertas sobre desigualdades de poder e vulnerabilidades sociais. Além disso, os dados evidenciam que mães negras possuem uma média mais alta de filhos mortos, enquanto mães indígenas têm, em média, mais filhos vivos. Outro ponto intrigante é a predominância de partos cesáreos na maioria dos grupos, com exceção das mães indígenas, que optam mais pelo parto vaginal. A pesquisa também explorou como escolaridade, idade e raça influenciam fatores como saúde materno-infantil e escolha do tipo de parto. Esses insights revelam a urgência de políticas públicas direcionadas para combater desigualdades e promover a saúde na região.
-
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Sinasc)
-##
-
-## Olist Insights • Análise de Dados do E-commerce
-> Identificando Oportunidades de Crescimento e Melhoria Através da Exploração de Dados de Vendas. O projeto Olist Insights foi desenvolvido para explorar de forma abrangente os dados disponibilizados pelo Olist, utilizando técnicas de análise e visualização de dados para transformar informações brutas em insights estratégicos. 
-
-> O dashboard é estruturado para responder perguntas-chave sobre vendas, logística, produtos, comportamento do cliente e avaliações, permitindo uma compreensão detalhada do funcionamento de uma operação de e-commerce.  Com base em colunas que abrangem desde características de pedidos até dados geográficos e de avaliação, o objetivo é fornecer ferramentas que auxiliem na tomada de decisões mais assertivas.
-
-> [GitHub Repository](https://github.com/enzoschitini/Olist) | [DASHBOARD](https://olist-insights.streamlit.app/)
-##
-
-## Credit Card Approval Prediction
-> Nesse projeto usei técnicas de machine learning para desenvolver um modelo capaz de prever a aprovação ou rejeição de solicitações de cartão de crédito. Analisamos dados históricos de clientes, incluindo informações demográficas e financeiras, para identificar padrões que influenciam a decisão de aprovação. Projeto muito comum em instituições financeiras com o objetivo de minimizar riscos de crédito e otimizar o processo de concessão, assegurando que apenas clientes qualificados sejam aprovados.
-
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Credit-Card-Approval-Prediction)
-##
-
-## Aplicação Streamlit que gera gráficos de dados coletados do Yahoo Finance
-> Este projeto envolve o desenvolvimento de uma aplicação interativa usando Streamlit, que permite aos usuários visualizar dados financeiros coletados do Yahoo Finance. A aplicação oferece uma interface amigável para consultar, analisar e visualizar informações sobre diferentes ativos financeiros, tais como ações, índices e moedas. Com funcionalidades como seleção de período, tipos de gráficos e indicadores financeiros, a aplicação visa facilitar a compreensão das tendências de mercado e a tomada de decisões informadas. Dados de empresas como Petrobras, Coca-Cola, Amazon, Tesla, Itaú e Emirates.
-
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Financial-shares-of-large-companies)
-##
+- 🤖 **IA Generativa & Agentes** — projeto arquiteturas RAG e integro LangChain, LlamaIndex, CrewAI e Dify para criar agentes que raciocinam, planejam e agem de forma autônoma.
+- 📊 **Data Science** — estatística, modelos de Machine Learning, Python, SQL e dashboards (Streamlit, Excel) para transformar dados em decisões de negócio.
+- 🧩 **Low-code** — como Bubble Developer, já construí plataformas SaaS, marketplaces, sistemas de gestão e apps educacionais, integrando APIs e automações.
+- 🔧 Estudo robótica e desenvolvimento de software desde os 12 anos — aprendizado prático é a base de tudo que faço.
 
 ---
 
+## 🤖 IA Generativa & Agentes
 
+**[Acquarello](https://github.com/enzoschitini/better-ai/blob/production/doc/Streamlit%20Applications/Acquarello.ipynb)**
+Estúdio de geração de imagens com IA em Streamlit, com dois modos — texto-para-imagem e imagem-para-imagem. O estilo visual é controlado pelo usuário direto na barra lateral, sem exigir nenhuma configuração técnica.
 
-
-
-
-## 📝 Artigos:
-
-
-### 1. [Ensemble Techniques](https://github.com/enzoschitini/machine-learning/tree/Ensemble-Techniques)
-
-### 2. [SQL para Análise de Dados](https://www.kaggle.com/code/enzoschitini/sql-para-an-lise-de-dados)
-
-### 3. [K-Means Clustering Algorithm](https://www.kaggle.com/code/enzoschitini/k-means-clustering-algorithm)
-
-### 4. [🐼 Guia para usar métodos e funções do Pandas](https://www.kaggle.com/code/enzoschitini/guide-to-using-pandas-methods-and-functions)
-
-### 5. [PCA - Principal Component Analysis](https://www.kaggle.com/code/enzoschitini/pca-principal-component-analysis)
-
-### 6. [PyCaret - Guide](https://www.kaggle.com/code/enzoschitini/pycaret-guide)
-
-### 7. [Pipelines em Python](https://github.com/enzoschitini/machine-learning/tree/Pipelines)
+**[Gerador de Conteúdos](https://github.com/enzoschitini/better-ai/blob/production/doc/Streamlit%20Applications/Content%20Generator.ipynb)**
+Aplicação Streamlit com arquitetura RAG conectada ao Pinecone, alimentada com catálogos e documentos do Grupo O Boticário. Gera textos no tom real da marca, com controle total sobre objetivo, restrições, modelo de linguagem, idioma e profundidade de busca.
 
 ---
 
-### Minha trajetória: Meus primeiros projetos
-**ATENÇÃO:** *Estes são alguns dos meus primeiros projetos. Portanto, tantas coisas se eu tivesse que fazê hoje, faria de forma diferente*
-###  
+## 📊 Projetos de Dados
 
-> ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Minha-trajet%C3%B3ria/Climate%20Change)
+Análises e modelos que já apliquei em problemas reais de negócio, saúde pública e mercado financeiro.
 
-> ### FIFA National teams
-> Este projeto irá explorar o desempenho das seleções nacionais de futebol de 1993 a 2022, oferecendo uma visão detalhada e envolvente das suas façanhas em campo.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Minha-trajet%C3%B3ria/Spogliatoi)
+**[Marketing Campaign Optimization (K-Means)](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Marketing-Campaign-Optimization)**
+Segmentação de clientes de um e-commerce em 4 clusters via K-Means, revelando oportunidades que poderiam elevar o faturamento em quase 12% (mais de $150 mil).
 
-> ### Imola kepler data
-> Esse é um algoritmo que revela dados incríveis sobre exoplanetas e a temperatura das estrelas. O telescópio é dedicado à busca de exoplanetas em sistemas estelares além do nosso.
-> [ACESSE O PROJETO](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Minha-trajet%C3%B3ria/Imola)
+**[SINASC Rondônia 2019](https://github.com/enzoschitini/Data-Science-Portfolio/tree/Sinasc)**
+Análise dos nascidos vivos em Rondônia, cruzando raça, escolaridade e idade materna para expor desigualdades em saúde materno-infantil.
 
-##
+**[Olist Insights](https://github.com/enzoschitini/Olist)** · [Dashboard ao vivo](https://olist-insights.streamlit.app/)
+Dashboard interativo sobre vendas, logística, produtos e avaliações de um e-commerce, para apoiar decisões operacionais com dados.
+
+---
+
+## 📝 Artigos
+
+1. **[Ensemble Techniques](https://github.com/enzoschitini/machine-learning/tree/Ensemble-Techniques)** — Bagging, Boosting, Stacking e Blending aplicados a Random Forest, XGBoost, LightGBM e CatBoost.
+2. **[SQL para Análise de Dados](https://www.kaggle.com/code/enzoschitini/sql-para-an-lise-de-dados)** — de JOINs e subqueries a particionamento no Athena, EDA e Data Storytelling.
+3. **[K-Means Clustering Algorithm](https://www.kaggle.com/code/enzoschitini/k-means-clustering-algorithm)** — K-Means, DBSCAN, GMM e outras técnicas de clustering, avaliadas com Silhouette e Davies-Bouldin.
+4. **[🐼 Guia de Pandas](https://www.kaggle.com/code/enzoschitini/guide-to-using-pandas-methods-and-functions)** — do carregamento à exportação de dados, incluindo séries temporais e MultiIndex.
+5. **[PCA - Principal Component Analysis](https://www.kaggle.com/code/enzoschitini/pca-principal-component-analysis)** — redução de dimensionalidade para visualização, compressão e detecção de outliers.
+6. **[PyCaret Guide](https://www.kaggle.com/code/enzoschitini/pycaret-guide)** — automação de Machine Learning: seleção de modelos, tuning e avaliação de desempenho.
+7. **[Pipelines em Python](https://github.com/enzoschitini/machine-learning/tree/Pipelines)** — como estruturar pipelines de Machine Learning reprodutíveis.
+
+---
+
+## 🌐 Idiomas
+
+- 🇮🇹 **Italiano** — nativo/bilíngue
+- 🇧🇷 **Português** — nativo/bilíngue
+- 🇬🇧 **Inglês** — básico
+
+---
 
 <p align="center">
-  Enzo Schitini
-</p>
-
-<p align="center">
-  Data Scientist & Data Analyst • Senior Bubble Developer • SQL • Ux/Ui Design @ Scituffy Founder
+  <b>Enzo Schitini</b> · Data Scientist & AI Engineer<br>
+  <a href="https://www.linkedin.com/in/enzoschitini/">Vamos conversar no LinkedIn →</a>
 </p>

@@ -1,0 +1,159 @@
+# Always Ready to Deploy 🚀
+
+### Data Scientist & AI Engineer @ Stefanini (EcGlobal)
+
+![LinkedIn](https://www.linkedin.com/in/enzoschitini/)
+
+!Python
+!SQL
+!LangChain
+!LangGraph
+!LlamaIndex
+!CrewAI
+!RAG
+!Pinecone
+!Hugging Face
+!Agno
+!Multi Agents
+!n8n
+!Machine Learning
+!Streamlit
+!Pandas
+!Polars
+!Matplotlib
+!MongoDB
+!PostgreSQL
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+---
+
+<div align="center">
+
+### 🌐 Selecione o idioma · Seleziona la lingua
+
+<b>🇧🇷 Português</b> &nbsp;•&nbsp; <b>🇮🇹 Italiano</b>
+
+<sub>Clique em um idioma abaixo para expandir · Clicca su una lingua qui sotto per espandere</sub>
+
+</div>
+
+<!-- ==================== PORTUGUÊS ==================== -->
+<details open>
+<summary><h3>🇧🇷 &nbsp;Português</h3></summary>
+<br>
+
+> Utilizo a tecnologia para criar soluções que geram valor real para pessoas e empresas.
+
+## Sobre mim
+
+Transformo dados e modelos de linguagem em produtos que geram impacto real de negócio. Nos últimos 4 anos, uni Data Science e Engenharia de IA para construir soluções com desempenho, escalabilidade e boas práticas de verdade — hoje faço isso na Stefanini (EcGlobal), levando iniciativas de IA Generativa do protótipo à produção.
+
+- 🤖 **IA Generativa & Agentes** — projeto arquiteturas RAG e integro LangChain, LlamaIndex, CrewAI e Dify para criar agentes que raciocinam, planejam e agem de forma autônoma.
+- 📊 **Data Science** — estatística, modelos de Machine Learning, Python, SQL e dashboards (Streamlit, Excel) para transformar dados em decisões de negócio.
+- 🧩 **Low-code** — como Bubble Developer, já construí plataformas SaaS, marketplaces, sistemas de gestão e apps educacionais, integrando APIs e automações.
+- 🔧 Estudo robótica e desenvolvimento de software desde os 12 anos — aprendizado prático é a base de tudo que faço.
+
+## 🤖 IA Generativa & Agentes
+
+**Acquarello**
+Estúdio de geração de imagens com IA em Streamlit, com dois modos — texto-para-imagem e imagem-para-imagem. O estilo visual é controlado pelo usuário direto na barra lateral, sem exigir nenhuma configuração técnica.
+
+**Gerador de Conteúdos**
+Aplicação Streamlit com arquitetura RAG conectada ao Pinecone, alimentada com catálogos e documentos do Grupo O Boticário. Gera textos no tom real da marca, com controle total sobre objetivo, restrições, modelo de linguagem, idioma e profundidade de busca.
+
+## 📊 Projetos de Dados
+
+Análises e modelos que já apliquei em problemas reais de negócio, saúde pública e mercado financeiro.
+
+**Marketing Campaign Optimization (K-Means)**
+Segmentação de clientes de um e-commerce em 4 clusters via K-Means, revelando oportunidades que poderiam elevar o faturamento em quase 12% (mais de $150 mil).
+
+**SINASC Rondônia 2019**
+Análise dos nascidos vivos em Rondônia, cruzando raça, escolaridade e idade materna para expor desigualdades em saúde materno-infantil.
+
+**Olist Insights** · Dashboard ao vivo
+Dashboard interativo sobre vendas, logística, produtos e avaliações de um e-commerce, para apoiar decisões operacionais com dados.
+
+## 📝 Artigos
+
+1. **Ensemble Techniques** — Bagging, Boosting, Stacking e Blending aplicados a Random Forest, XGBoost, LightGBM e CatBoost.
+2. **SQL para Análise de Dados** — de JOINs e subqueries a particionamento no Athena, EDA e Data Storytelling.
+3. **K-Means Clustering Algorithm** — K-Means, DBSCAN, GMM e outras técnicas de clustering, avaliadas com Silhouette e Davies-Bouldin.
+4. **🐼 Guia de Pandas** — do carregamento à exportação de dados, incluindo séries temporais e MultiIndex.
+5. **PCA - Principal Component Analysis** — redução de dimensionalidade para visualização, compressão e detecção de outliers.
+6. **PyCaret Guide** — automação de Machine Learning: seleção de modelos, tuning e avaliação de desempenho.
+7. **Pipelines em Python** — como estruturar pipelines de Machine Learning reprodutíveis.
+
+## 🌐 Idiomas
+
+- 🇮🇹 **Italiano** — nativo/bilíngue
+- 🇧🇷 **Português** — nativo/bilíngue
+- 🇬🇧 **Inglês** — básico
+
+</details>
+
+<!-- ==================== ITALIANO ==================== -->
+<details>
+<summary><h3>🇮🇹 &nbsp;Italiano</h3></summary>
+<br>
+
+> Utilizzo la tecnologia per creare soluzioni che generano valore reale per persone e aziende.
+
+## Chi sono
+
+Trasformo dati e modelli linguistici in prodotti che generano un impatto reale sul business. Negli ultimi 4 anni ho unito Data Science e Ingegneria dell'IA per costruire soluzioni con performance, scalabilità e best practice concrete — oggi lo faccio in Stefanini (EcGlobal), portando iniziative di IA Generativa dal prototipo alla produzione.
+
+- 🤖 **IA Generativa & Agenti** — progetto architetture RAG e integro LangChain, LlamaIndex, CrewAI e Dify per creare agenti che ragionano, pianificano e agiscono in modo autonomo.
+- 📊 **Data Science** — statistica, modelli di Machine Learning, Python, SQL e dashboard (Streamlit, Excel) per trasformare i dati in decisioni di business.
+- 🧩 **Low-code** — come Bubble Developer, ho già costruito piattaforme SaaS, marketplace, sistemi gestionali e app educative, integrando API e automazioni.
+- 🔧 Studio robotica e sviluppo software da quando avevo 12 anni — l'apprendimento pratico è la base di tutto ciò che faccio.
+
+## 🤖 IA Generativa & Agenti
+
+**Acquarello**
+Studio di generazione di immagini con IA in Streamlit, con due modalità — testo-in-immagine e immagine-in-immagine. Lo stile visivo è controllato dall'utente direttamente dalla barra laterale, senza richiedere alcuna configurazione tecnica.
+
+**Generatore di Contenuti**
+Applicazione Streamlit con architettura RAG connessa a Pinecone, alimentata con cataloghi e documenti del Grupo O Boticário. Genera testi nel tono autentico del marchio, con pieno controllo su obiettivo, vincoli, modello linguistico, lingua e profondità di ricerca.
+
+## 📊 Progetti di Dati
+
+Analisi e modelli che ho applicato a problemi reali di business, sanità pubblica e mercato finanziario.
+
+**Marketing Campaign Optimization (K-Means)**
+Segmentazione dei clienti di un e-commerce in 4 cluster tramite K-Means, individuando opportunità che potrebbero aumentare il fatturato di quasi il 12% (oltre 150 mila $).
+
+**SINASC Rondônia 2019**
+Analisi dei nati vivi in Rondônia, incrociando etnia, livello di istruzione ed età materna per evidenziare le disuguaglianze nella salute materno-infantile.
+
+**Olist Insights** · Dashboard live
+Dashboard interattiva su vendite, logistica, prodotti e recensioni di un e-commerce, per supportare le decisioni operative con i dati.
+
+## 📝 Articoli
+
+1. **Ensemble Techniques** — Bagging, Boosting, Stacking e Blending applicati a Random Forest, XGBoost, LightGBM e CatBoost.
+2. **SQL per l'Analisi dei Dati** — dai JOIN e subquery al partizionamento in Athena, EDA e Data Storytelling.
+3. **K-Means Clustering Algorithm** — K-Means, DBSCAN, GMM e altre tecniche di clustering, valutate con Silhouette e Davies-Bouldin.
+4. **🐼 Guida a Pandas** — dal caricamento all'esportazione dei dati, incluse serie temporali e MultiIndex.
+5. **PCA - Principal Component Analysis** — riduzione della dimensionalità per visualizzazione, compressione e rilevamento di outlier.
+6. **PyCaret Guide** — automazione del Machine Learning: selezione dei modelli, tuning e valutazione delle performance.
+7. **Pipeline in Python** — come strutturare pipeline di Machine Learning riproducibili.
+
+## 🌐 Lingue
+
+- 🇮🇹 **Italiano** — madrelingua/bilingue
+- 🇧🇷 **Portoghese** — madrelingua/bilingue
+- 🇬🇧 **Inglese** — base
+
+</details>
+
+---
+
+<p align="center">
+  <b>Enzo Schitini</b> · Data Scientist & AI Engineer<br>
+  <a href="https://www.linkedin.com/in/enzoschitini/">Vamos conversar no LinkedIn · Parliamone su LinkedIn →</a>
+</p>
